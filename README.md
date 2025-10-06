@@ -43,7 +43,7 @@ Author of multiple IEEE conference papers (IWCMC, TAIMA, Wimob), focusing on:
 ## 📫 Contact
 📍 Tunis, Tunisia  
 📧 namoray.fofana@supcom.tn  
-🔗 [LinkedIn](https://linkedin.com/in/fofana-namory) • [GitHub](https://github.com/Lamethode)
+🔗 [LinkedIn](https://www.linkedin.com/in/namory-fofana-64655718b/) • [GitHub](https://github.com/Lamethode)
 
 ---
 
