@@ -26,9 +26,6 @@ Author of multiple IEEE conference papers (IWCMC, TAIMA, Wimob), focusing on:
 ## 🧩 Key Experiences
 - **AI & ML Engineer / Researcher** – University of Passau, Germany (2025): designing DRL and FL algorithms  
 - **Academic Supervisor & MLOps Trainer** – SupCom Tunis (2022–2025)  
-- **Personal Projects**:  
-  - Airline ticket price prediction (Streamlit + Docker)  
-  - Employee attrition analysis (Power BI + ML)  
 
 ---
 
